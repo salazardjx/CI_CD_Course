@@ -1,9 +1,9 @@
 import datetime
 
-def main()
+def main():
     print("Hello, World!")
-    current_time=date.time.now()
+    current_time=datetime.time.now()
     print("Current Time:",current_time)
 
-if __name__="main":
+if __name__=="main":
   main()
